@@ -3,7 +3,7 @@
     "id": "979816956515",
     "restype": "watchface",
     "name": "隐藏应用列表",
-    "description": "连点表盘 5 下（可改 10 下）即可进入隐藏管理，把不想在应用列表里看到的第三方应用收起来，也能一键放回；隐藏/移出后按提示重启一次即生效，**隐藏后的应用仍可从本表盘直达打开**  需购买版本为去除2.5s赞助页版本，与试用版本功能完全一致，可酌情考虑。",
+    "description": "连点表盘 5 下（可改 10 下）即可进入隐藏管理，把不想在应用列表里看到的第三方应用收起来，也能一键放回；隐藏/移出后按提示重启一次即生效，**隐藏后的应用仍可从本表盘直达打开**  需购买版本为去除赞助页版本，与试用版本功能完全一致，可酌情考虑。",
     "preview": [
       "media/28695.png",
       "media/28699.png"
@@ -29,9 +29,9 @@
     "enableAstroBoxCreatorFeatures": true,
     "trialDownloads": {
       "xmrw6": {
-        "version": "1.0.1",
-        "file_name": "downloads/trial/极简时间Pro.bin",
-        "versionCode": 65537
+        "version": "1.0.2",
+        "file_name": "downloads/trial/极简时间.bin",
+        "versionCode": 65538
       }
     }
   }
